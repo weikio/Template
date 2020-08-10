@@ -1,20 +1,26 @@
-# Introduction 
-TODO: Give a short introduction of your project. Let this section explain the objectives or the motivation behind this project. 
+# Weik.io Template
+ 
+Template for Weik.io's .NET Core projects. Contains the following constructs:
 
-# Getting Started
-TODO: Guide users through getting your code up and running on their own system. In this section you can talk about:
-1.	Installation process
-2.	Software dependencies
-3.	Latest releases
-4.	API references
+* Coding conventions in the format of .editorconfig.
+* Folder structure
+* Global.json
+* Git ignore
 
-# Build and Test
-TODO: Describe and show how to build your code and run the tests. 
+This template can be used as a starting point for all the Weik.io projects.
 
-# Contribute
-TODO: Explain how other users and developers can contribute to make your code better. 
+## Usage
 
-If you want to learn more about creating good readme files then refer the following [guidelines](https://docs.microsoft.com/en-us/azure/devops/repos/git/create-a-readme?view=azure-devops). You can also seek inspiration from the below readme files:
-- [ASP.NET Core](https://github.com/aspnet/Home)
-- [Visual Studio Code](https://github.com/Microsoft/vscode)
-- [Chakra Core](https://github.com/Microsoft/ChakraCore)
+The template can be used when creating a new repository in GitHub:
+
+![Creating a new repository using the template](2020-08-10-13-30-31.png)
+
+Select Weikio/Template from the Repository teamplte dropdown.
+
+Alternatively a new repository with this template can be created from https://github.com/weikio/Template:
+
+![Creating a new repository from the template's repository](2020-08-10-13-34-18.png)
+
+## License
+
+This template is MIT licensed.

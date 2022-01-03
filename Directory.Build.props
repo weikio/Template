@@ -6,14 +6,14 @@
     <PackageIcon>logo_256.png</PackageIcon>
     <MinVerMinimumMajorMinor>1.0</MinVerMinimumMajorMinor>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
-    <RepositoryUrl>https://github.com/weikio/Weikio.EventFramework</RepositoryUrl>
-    <PackageProjectUrl>https://www.weik.io</PackageProjectUrl>
-    <Copyright>©2020 Weik.io</Copyright>
+    <RepositoryUrl>https://github.com/weikio/</RepositoryUrl>
+    <PackageProjectUrl>https://weik.io</PackageProjectUrl>
+    <Copyright>©2022 Weik.io</Copyright>
     <LangVersion>8.0</LangVersion>
   </PropertyGroup>
   
   <ItemGroup>
-    <PackageReference Include="MinVer" Version="2.0.0" />
+    <PackageReference Include="MinVer" Version="2.0.0" PrivateAssets="all" />
   </ItemGroup>
   
   <ItemGroup>
